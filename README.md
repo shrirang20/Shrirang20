@@ -1,7 +1,7 @@
 <div class="header">
 	<div align = "center">
 		<img src="/assets/Header.png" alt="Header"
-		     title="header" width="1000" height="360"/>
+		     title="header" width="1000" height="280"/>
 	</div>
 
 </div>
