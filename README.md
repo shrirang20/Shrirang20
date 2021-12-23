@@ -1,7 +1,7 @@
 <div class="header">
 	
 <img src="/assets/Header.png" alt="Header"
-	title="header" width="1000" height="430"/>
+	title="header" width="960" height="400"/>
 
 </div>
 
