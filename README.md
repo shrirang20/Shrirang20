@@ -1,5 +1,9 @@
+\LRCornerWallPaper{0.99}{path/to/pic}
+
 <h1 align="center">Hi 👋, I'm Shrirang</h1>
 <h3 align="center">A aspiring Data Scientist, studying at IIT, Madras</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shrirang20&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrirang20&label=Profile%20views&color=0e75b6&style=flat" alt="shrirang20" /> </p>
 
