@@ -34,7 +34,7 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrirang20&show_icons=true&locale=en&layout=compact" alt="shrirang20" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shrirang20&show_icons=true&locale=en" alt="shrirang20" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shrirang20&show_icons=true&locale=en" alt="shrirang20" /></p>
 
 <div align='center'>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrirang20&" alt="shrirang20" /></p>
