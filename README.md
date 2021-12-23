@@ -1,6 +1,10 @@
+<div class="header">
+	
 <img src="/assets/Header.png" alt="Header"
 	title="header" width="1000" height="430"/>
-  
+
+</div>
+
 ---
 
 <h1 align="center">Hi 👋, I'm Shrirang</h1>
