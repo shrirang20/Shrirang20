@@ -7,7 +7,9 @@
 <h3 align="center">A aspiring Data Scientist, studying at IIT, Madras</h3>
 
 <div align="center">  
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shrirang20&theme=tokyonight-ma&column=4&margin-w=25&margin-h=18)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 - 🔭 I’m currently working at **Genik Research Institute**
