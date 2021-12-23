@@ -39,7 +39,7 @@
 
 <div align="center">
 	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrirang20&theme=tokyonight&no-bg=true&no-frame=true&show_icons=true&locale=en&layout=compact" alt="shrirang20" "width = 20" /><p>
-	<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shrirang20&theme=tokyonight&no-bg=true&no-frame=true&show_icons=true&locale=en" alt="shrirang20" "width = 20"/></p>
+	<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shrirang20&theme=tokyonight&no-bg=true&no-frame=true&show_icons=true&locale=en" alt="shrirang20" "width = 5"/></p>
 	<div align='center'>
 		<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrirang20&theme=tokyonight&no-bg=true&no-frame=true" alt="shrirang20" /></p>
   	</div>
