@@ -12,7 +12,7 @@
 
 </div>
 
-- 🔭 I’m currently working at **Genik Research Institute**
+- 🔭 I’m currently interning at **Genik Research Institute**
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
 
