@@ -1,5 +1,5 @@
-<img src="/assets/Untitled design (11).png" alt="Header"
-	title="header" width="3140" height="480" />
+<img src="/assets/Header.png" alt="Header"
+	title="header" width="1000" height="430"/>
   
 ---
 
