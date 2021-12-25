@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Shrirang</h1>
+<h1 align="center"> Hi <img src="/assets/Higif.gif" width="35px"/> I'm Shrirang</h1>
 
 ---
 
@@ -29,8 +29,8 @@
 - 🙂 Pronounces: **he/his/him**
 
 - 📫 How to reach me **shrirang.sapate95@gmail.com**
+---
 
-- ⚡ Fun fact **Each of my friend calls me with different name. So have plenty of names.**
 ---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
@@ -43,6 +43,8 @@
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirang20&theme=tokyonight&no-bg=true&no-frame=true&show_icons=true&locale=en&layout=compact">
   </p>
 </table>
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=shrirang20&theme=react-dark)](https://github.com/shrirang20/github-readme-activity-graph)
 
 ----
 
