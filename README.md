@@ -1,4 +1,4 @@
-
+---
 ---
 
 <h1 align="center"> Hi <img src="/assets/Higif.gif" width="35px"/> I'm Shrirang</h1>
@@ -56,3 +56,6 @@
 <a href="https://www.youtube.com/c/shrirang sapate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shrirang sapate" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrirang_sapate2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrirang_sapate2" height="30" width="40" /></a>
 </p>
+
+---
+---
