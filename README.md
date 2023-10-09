@@ -16,11 +16,13 @@
 
 </div>
 
-- 🔭 I’m currently a intern at **Genik Research Institute**
+- 🔭 I’m former intern at **Genik Research Institute**
+  
+- 🔭 I’m former intern at **IIT Madras Research Park**
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
 
-- 👯 I’m looking to collaborate on **interdisciplinary projects in Astronomy based on python & Machine Learning**
+- 👯 I’m looking to opportunities in **Data Science, Machine Learning and Deep Learning**
 
 - 🤝 I’m looking for help my **community**
 
@@ -28,7 +30,9 @@
 
 - 🙂 Pronounces: **he/his/him**
 
-- 📫 How to reach me **shrirang.sapate95@gmail.com**
+- 📫 How to reach me **official.shriraang@gmail.com**
+
+-  **My Publication in Machine Learning:** [Click Here](https://arxiv.org/pdf/2111.04003)
 ---
 
 ---
